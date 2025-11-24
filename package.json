@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/sequi-corporis-itaque-vero",
-  "version": "19.48.510",
+  "version": "20.48.510",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -131,5 +131,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/sequi-corporis-itaque-vero/issues"
   },
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.12.0"
 }
